@@ -240,12 +240,6 @@ void main()
 			case 9:
 				printf("\nExiting the system...\n\n");
 				return;
-			case 69:
-				printf("\nNice...\n\n");
-				break;
-			case 420:
-				printf("\nBlaze it...\n\n");
-				break;
 			default:
 				printf("\nInvalid option, please see the menu of options\n\n");
 		}
